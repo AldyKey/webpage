@@ -1,0 +1,173 @@
+.body2 {
+  background-color: #d1cdcd;
+  align-items: center;
+
+}
+
+.goback {
+  color: #d1cdcd;
+  font-size: 70px;
+}
+
+.goback:hover{
+  text-decoration: none;
+  color: #a6a1a1;
+}
+
+.desc {
+  color: #d1cdcd;
+  text-shadow: 2px 2px #000000;
+  font-size: 25px;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.contacts {
+  color: #d1cdcd;
+  text-shadow: 2px 2px #000000;
+  font-size: 35px;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #1a1a1d;
+  height: 300px;
+  width: 50%;
+  border-radius: 25px;
+  box-shadow: 40px 20px 20px #4a4a59;
+  text-align: center;
+}
+
+.body1 {
+  background-color: #1a1a1d;
+  margin: 0px;
+  padding: 0px;
+  background-image: url(background1.jpg);
+}
+
+.mainlink{
+  color: #92052f;
+  text-decoration: none;
+}
+
+.mainlink:hover{
+  color: #c3073f;
+}
+
+.lefttext {
+  color: #c3073f;
+  font-family: 'Yusei Magic', sans-serif;
+  margin: 0;
+  font-size: 20px;
+}
+
+.intro {
+  color: #c3073f;
+  text-align: center;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.mainn {
+  position: absolute;
+  z-index:10;
+  top: 10px;
+  left: 5px;
+  font-size: 20px;
+  color: #92052f;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.Student {
+  position: relative;
+  text-align: center;
+  display: block;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 25px;
+  color: #92052f;
+  top: 5px;
+}
+
+.header {
+  height: 37px;
+  background-color: #111113;
+  margin-bottom: 15px;
+  border-bottom: 3px solid #92052f;
+}
+
+.img {
+  width:350px;
+  height: 350px;
+  margin:auto;
+  border:5px solid #c3073f;
+  border-radius: 350px;
+}
+
+.name{
+  margin:0;
+  color: #c3073f;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 60px;
+  text-align: center;
+  /*display: inline-block;*/
+}
+
+.link1{
+  color: #c3073f;
+  text-decoration: none;
+}
+
+.link1:hover{
+  color: #f4094f;
+}
+
+.lol {
+  margin: auto;
+}
+
+.bottom {
+  background-color: #111113;
+  height: 33px;
+}
+
+.Contacts {
+  position: relative;
+  text-align: center;
+  display: block;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 20px;
+  color: #92052f;
+  margin: 0;
+}
+
+.morelink{
+  color: #c3073f;
+  text-decoration: none;
+}
+
+.morelink:hover{
+  color: #f4094f;
+}
+
+.contactslink {
+  color: #92052f;
+  text-decoration: none;
+}
+
+.contactslink:hover{
+  color: #f4094f;
+}
+
+.authors {
+  position: absolute;
+  z-index:10;
+  padding-top: 15px;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 12px;
+  color: #92052f;
+  margin: 0;
+}
